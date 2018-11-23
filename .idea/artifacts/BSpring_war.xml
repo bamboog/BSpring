@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BSpring.war">
+      <element id="artifact" artifact-name="BSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
